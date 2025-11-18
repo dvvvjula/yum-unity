@@ -86,7 +86,3 @@ This process highlights my **practical involvement** in every stage of the proje
 | **Backend** | PHP |
 | **Database** | SQL (user accounts, posts, friends, notifications) |
 | **Hosting** | cba.pl |
-
----
-# watchly
-# watchly
